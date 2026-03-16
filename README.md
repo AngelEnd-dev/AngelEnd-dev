@@ -10,7 +10,7 @@
 
 ---
 
-## Tecnologias & Ferramentas
+## Technologies and Tools
 
 <div align="center">
 
