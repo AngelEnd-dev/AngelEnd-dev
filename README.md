@@ -50,6 +50,10 @@
 <br/>
 
 ---
+## ⏱️ Esta Semana Eu Codei
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Projetos em Breve...
 
