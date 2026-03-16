@@ -35,6 +35,7 @@
 <br/>
 
 ---
+
 ## GitHub Stats
 
 <div align="center">
@@ -45,6 +46,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelEnd-dev&theme=github-dark-blue&border_radius=15&border=7B2FBE&ring=cc99ff&fire=cc99ff&currStreakLabel=cc99ff" alt="streak stats"/>
 </div>
+
+<br/>
+
+---
 
 ## Projetos em Breve...
 
@@ -63,13 +68,29 @@ Futuros projetos estão vindo! 👀
 ## Vamos nos conectar?
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a9fc31e2-0c20-44c0-a089-e1aa784f5e7d" width="200"/>
-
-  <br/><br/>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-karoliny-a4b1053b4)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviakaroliny28@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngelEnd-dev)
+  <table border="0" cellspacing="0" cellpadding="20">
+    <tr>
+      <td valign="middle" align="left" width="200">
+        <a href="https://www.linkedin.com/in/livia-karoliny-a4b1053b4">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <a href="mailto:liviakaroliny28@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <a href="https://github.com/AngelEnd-dev">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+      <td valign="middle" align="center">
+        <img src="https://github.com/user-attachments/assets/a9fc31e2-0c20-44c0-a089-e1aa784f5e7d" width="180"/>
+      </td>
+      <td valign="middle" align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=CC99FF&center=true&vCenter=true&width=250&height=100&lines=Bora+trocar+uma+ideia!;Estou+sempre+por+aqui...;Me+chama+no+LinkedIn!;Ou+manda+um+email+%F0%9F%8C%B8" alt="Typing SVG"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
