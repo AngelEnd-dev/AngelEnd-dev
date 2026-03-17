@@ -8,7 +8,11 @@
 
 <br/>
 
----
+## About Me
+
+Hi! I'm Livia Karoliny, a front-end developer passionate about programming and games.
+I enjoy transforming ideas into real projects and I'm always learning more about programming, design and user experience.
+Technology and games inspire me to keep building, improving and exploring new possibilities.
 
 ## Technologies and Tools
 
@@ -28,6 +32,17 @@
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AngelEnd-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelEnd-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</div>
+
+<br/>
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/output/github-contribution-grid-snake-dark.svg"/>
 </div>
@@ -36,35 +51,20 @@
 
 ---
 
-## My Time Programming
+## Coding Activity
 
 <!--START_SECTION:waka-->
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                16 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-🌃 Evening                13 commits          ██████████░░░░░░░░░░░░░░░   40.62 % 
-🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-``` 
-```text
-Monday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Sunday                   22 commits          █████████████████░░░░░░░░   68.75 % 
-```
-```text
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-PHP                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-```
+<!--END_SECTION:waka-->
 
-## Projects Coming Soon...
+<br/>
+
+---
+
+## Featured Projects
 
 <div align="center">
-``
-Future projects are coming! 👀
-``
+
+Soon you'll find here some of my favorite projects, built with creativity, dedication and a lot of learning. 🚀
 
 </div>
 
@@ -72,7 +72,20 @@ Future projects are coming! 👀
 
 ---
 
+## Career Goal
+
+I'm focused on growing as a front-end developer, improving my skills in responsive design, interactivity and modern web development.  
+My goal is to build creative and functional projects that reflect both my technical growth and my passion for technology.
+
+<br/>
+
+---
+
 ## Get in Touch
+
+<div align="center">
+  <p>I'm always open to connecting, learning and sharing ideas about technology, front-end development and creative projects.</p>
+</div>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="20">
