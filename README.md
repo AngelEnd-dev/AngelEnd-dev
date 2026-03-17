@@ -36,21 +36,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AngelEnd-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=15&border_color=7B2FBE&title_color=cc99ff&icon_color=cc99ff"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelEnd-dev&layout=compact&langs_count=6&theme=github_dark&border_radius=15&border_color=7B2FBE&title_color=cc99ff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelEnd-dev&theme=github-dark-blue&border_radius=15&border=7B2FBE&ring=cc99ff&fire=cc99ff&currStreakLabel=cc99ff" alt="streak stats"/>
-</div>
-
-<br/>
-
----
-
 ## My Time Programming
 
 <!--START_SECTION:waka-->
