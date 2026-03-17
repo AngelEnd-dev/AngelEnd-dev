@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=CC99FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Livia+Karoliny;Desenvolvedora+Front-end;Apaixonada+por+tecnologia+e+jogos;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=CC99FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Livia+Karoliny;Front-end+Developer;Passionate+about+technology+and+games;Always+learning+and+growing" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -50,7 +50,8 @@
 <br/>
 
 ---
-## My time programming
+
+## My Time Programming
 
 <!--START_SECTION:waka-->
 ```text
@@ -59,7 +60,6 @@
 🌃 Evening                13 commits          ██████████░░░░░░░░░░░░░░░   40.62 % 
 🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ``` 
-
 ```text
 Monday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -69,7 +69,6 @@ Friday                   0 commits           ░░░░░░░░░░░�
 Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 Sunday                   22 commits          █████████████████░░░░░░░░   68.75 % 
 ```
-
 ```text
 HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
 PHP                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
@@ -78,10 +77,9 @@ PHP                      1 repo              ███████████�
 ## Projects Coming Soon...
 
 <div align="center">
-
-```
+``
 Future projects are coming! 👀
-```
+``
 
 </div>
 
@@ -89,7 +87,7 @@ Future projects are coming! 👀
 
 ---
 
-## 
+## Get in Touch
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="20">
@@ -111,7 +109,7 @@ Future projects are coming! 👀
         <img src="https://github.com/user-attachments/assets/a9fc31e2-0c20-44c0-a089-e1aa784f5e7d" width="180"/>
       </td>
       <td valign="middle" align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=CC99FF&center=true&vCenter=true&width=250&height=100&lines=Bora+trocar+uma+ideia!;Estou+sempre+por+aqui...;Me+chama+no+LinkedIn!;Ou+manda+um+email+%F0%9F%8C%B8" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=CC99FF&center=true&vCenter=true&width=250&height=100&lines=Let's+talk!;I'm+always+around...;Reach+me+on+LinkedIn!;Or+send+an+email+%F0%9F%8C%B8" alt="Typing SVG"/>
       </td>
     </tr>
   </table>
@@ -122,7 +120,7 @@ Future projects are coming! 👀
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngelEnd-dev&color=7B2FBE&style=for-the-badge&label=VISITANTES" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AngelEnd-dev&color=7B2FBE&style=for-the-badge&label=VISITORS" alt="profile views"/>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer"/>
 </div>
