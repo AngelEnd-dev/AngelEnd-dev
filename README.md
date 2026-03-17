@@ -10,10 +10,9 @@
 
 ## About Me
 
-Hi! I'm Livia Karoliny, a front-end developer passionate about programming and games.
-I enjoy transforming ideas into real projects and I'm always learning more about programming, design and user experience.
-Technology and games inspire me to keep building, improving and exploring new possibilities.
-
+Hi! I'm Livia Karoliny, a front-end developer passionate about programming and games.  
+I enjoy transforming ideas into real projects, and I'm always learning more about programming, design, and user experience.  
+Technology and games inspire me to keep building, improving, and exploring new possibilities.
 ## Technologies and Tools
 
 <div align="center">
@@ -71,16 +70,6 @@ Soon you'll find here some of my favorite projects, built with creativity, dedic
 <br/>
 
 ---
-
-## Career Goal
-
-I'm focused on growing as a front-end developer, improving my skills in responsive design, interactivity and modern web development.  
-My goal is to build creative and functional projects that reflect both my technical growth and my passion for technology.
-
-<br/>
-
----
-
 ## Get in Touch
 
 <div align="center">
