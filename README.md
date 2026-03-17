@@ -53,6 +53,35 @@ Technology and games inspire me to keep building, improving, and exploring new p
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in HTML** 
+
+```text
+HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+PHP                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/03/2026 05:14:08 UTC
 <!--END_SECTION:waka-->
 
 <br/>
