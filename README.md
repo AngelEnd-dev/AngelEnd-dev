@@ -53,7 +53,9 @@ Technology and games inspire me to keep building, improving, and exploring new p
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,6 +69,45 @@ Technology and games inspire me to keep building, improving, and exploring new p
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                17 commits          ███████████░░░░░░░░░░░░░░   45.95 % 
+🌃 Evening                16 commits          ███████████░░░░░░░░░░░░░░   43.24 % 
+🌙 Night                  4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   8 commits           █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Sunday                   21 commits          ██████████████░░░░░░░░░░░   56.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -81,7 +122,7 @@ PHP                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 05:14:08 UTC
+ Last Updated on 18/03/2026 05:20:33 UTC
 <!--END_SECTION:waka-->
 
 <br/>
