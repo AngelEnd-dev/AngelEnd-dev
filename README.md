@@ -53,7 +53,7 @@ Technology and games inspire me to keep building, improving, and exploring new p
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue?style=flat)
 
@@ -61,7 +61,7 @@ Technology and games inspire me to keep building, improving, and exploring new p
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,20 +73,20 @@ Technology and games inspire me to keep building, improving, and exploring new p
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                17 commits          ███████████░░░░░░░░░░░░░░   42.50 % 
-🌃 Evening                19 commits          ████████████░░░░░░░░░░░░░   47.50 % 
-🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime                17 commits          ██████████░░░░░░░░░░░░░░░   41.46 % 
+🌃 Evening                20 commits          ████████████░░░░░░░░░░░░░   48.78 % 
+🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Monday                   8 commits           █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Sunday                   21 commits          █████████████░░░░░░░░░░░░   52.50 % 
+Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Sunday                   21 commits          █████████████░░░░░░░░░░░░   51.22 % 
 ```
 
 
@@ -96,16 +96,20 @@ Sunday                   21 commits          ███████████�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blade Template           1 hr 15 mins        ███████████████░░░░░░░░░░   58.33 % 
+JavaScript               24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+PHP                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fitpulse-api             2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -122,7 +126,7 @@ PHP                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2026 05:15:41 UTC
+ Last Updated on 20/03/2026 05:08:32 UTC
 <!--END_SECTION:waka-->
 
 <br/>
