@@ -31,16 +31,6 @@ Technology and games inspire me to keep building, improving, and exploring new p
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AngelEnd-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelEnd-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</div>
-
-<br/>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/output/github-contribution-grid-snake-dark.svg"/>
