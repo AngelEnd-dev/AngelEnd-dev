@@ -31,54 +31,12 @@ Technology and games inspire me to keep building, improving, and exploring new p
 
 ---
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<br/>
-
----
-
 ## Coding Activity
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 46 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-🌆 Daytime                21 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
-🌃 Evening                38 commits          ██████████████░░░░░░░░░░░   54.29 % 
-🌙 Night                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   14 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Thursday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Saturday                 11 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Sunday                   27 commits          ██████████░░░░░░░░░░░░░░░   38.57 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -91,37 +49,6 @@ CSS                      1 hr 36 mins        ████████░░░�
 PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-fitpulse-api             4 hrs 51 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-PHP                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/main/assets/bar_graph.png)
-
-
- Last Updated on 02/04/2026 05:50:47 UTC
-<!--END_SECTION:waka-->
-
-<br/>
-
----
 
 ## Featured Projects
 
