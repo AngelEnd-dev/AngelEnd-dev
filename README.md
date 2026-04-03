@@ -103,7 +103,5 @@ Soon you'll find here some of my favorite projects, built with creativity, dedic
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngelEnd-dev&color=7B2FBE&style=for-the-badge&label=VISITORS" alt="profile views"/>
-  <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer"/>
 </div>
