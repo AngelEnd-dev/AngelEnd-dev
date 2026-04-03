@@ -58,6 +58,10 @@ JavaScript               0 secs              ░░░░░░░░░░░�
 
 <div align="center">
 
+### FitPulse
+A fitness platform interface focused on user experience, workout organization and modern design.
+
+🔗 [View repository](https://github.com/AngelEnd-dev/fitpulse)
 Soon you'll find here some of my favorite projects, built with creativity, dedication and a lot of learning. 🚀
 
 </div>
