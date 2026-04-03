@@ -10,9 +10,10 @@
 
 ## About Me
 
-Hi! I'm Livia Karoliny, a front-end developer passionate about programming and games.  
-I enjoy transforming ideas into real projects, and I'm always learning more about programming, design, and user experience.  
+Hello! I'm Livia Karoliny, a front-end developer. I love programming and games, and I'm always looking to learn and improve.
+I enjoy turning ideas into real projects, and I'm always learning more about programming, design, and user experience.
 Technology and games inspire me to keep building, improving, and exploring new possibilities.
+
 ## Technologies and Tools
 
 <div align="center">
@@ -57,12 +58,8 @@ JavaScript               0 secs              ░░░░░░░░░░░�
 ## Featured Projects
 
 <div align="center">
-
-### FitPulse
-A fitness platform interface focused on user experience, workout organization and modern design.
-
-🔗 [View repository](https://github.com/AngelEnd-dev/fitpulse)
-Soon you'll find here some of my favorite projects, built with creativity, dedication and a lot of learning. 🚀
+  
+Soon you'll find here some of my favorite projects, built with creativity, dedication and a lot of learning. 
 
 </div>
 
