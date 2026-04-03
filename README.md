@@ -38,6 +38,7 @@ Technology and games inspire me to keep building, improving, and exploring new p
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
+---
 📊 **This Week I Spent My Time On** 
 
 ```text
