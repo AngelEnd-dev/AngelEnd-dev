@@ -35,7 +35,7 @@ Technology and games inspire me to keep building, improving, and exploring new p
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
 
@@ -78,18 +78,20 @@ Sunday                   28 commits          ████████░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      2 hrs 45 mins       ██████████████░░░░░░░░░░░   54.14 % 
-Blade Template           2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
+CSS                      2 hrs 45 mins       █████████████░░░░░░░░░░░░   53.76 % 
+Blade Template           2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
 PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fitpulse-api             5 hrs 4 mins        █████████████████████████   100.00 % 
+fitpulse-api             5 hrs 4 mins        █████████████████████████   99.30 % 
+uigen                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -106,7 +108,7 @@ PHP                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2026 06:00:32 UTC
+ Last Updated on 09/04/2026 05:59:35 UTC
 <!--END_SECTION:waka-->
 
 ## Featured Projects
