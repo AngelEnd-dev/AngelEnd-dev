@@ -36,92 +36,31 @@ Technology and games inspire me to keep building, improving, and exploring new p
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2059%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 62 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-🌆 Daytime                25 commits          ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-🌃 Evening                53 commits          ███████████████░░░░░░░░░░   59.55 % 
-🌙 Night                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   19 commits          █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Thursday                 18 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Saturday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Sunday                   28 commits          ████████░░░░░░░░░░░░░░░░░   31.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Blade Template           4 hrs 17 mins       ██████████████░░░░░░░░░░░   56.33 % 
-CSS                      2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
-PHP                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 36 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-fitpulse-api             7 hrs 34 mins       █████████████████████████   99.53 % 
-uigen                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-
-💻 Operating System: 
-Windows                  7 hrs 36 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-PHP                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/AngelEnd-dev/AngelEnd-dev/main/assets/bar_graph.png)
-
-
- Last Updated on 15/04/2026 01:22:21 UTC
 <!--END_SECTION:waka-->
 
 ## Featured Projects
 
 <div align="center">
-  
-Soon you'll find here some of my favorite projects, built with creativity, dedication and a lot of learning. 
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3> Fitpulse </h3>
+      <p>API para plataforma fitness — gerenciamento de treinos, usuários e progresso pessoal.</p>
+      <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/status-em%20desenvolvimento-orange"/> </p>
+      <a href="https://github.com/AngelEnd-dev/fitpulse-api.git">Ver repositório →</a>
+    </td>
+    <td width="50%">
+      <h3> Sakura Card</h3>
+      <p>Gerador de componentes de interface — criado para explorar design e criatividade no front-end.</p>
+      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/status-concluído-brightgreen"/></p>
+      <a href="https://github.com/AngelEnd-dev/SakuraCard.git">Ver repositório →</a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
 
----
 ## Get in Touch
 
 <div align="center">
