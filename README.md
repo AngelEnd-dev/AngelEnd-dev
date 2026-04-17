@@ -56,9 +56,19 @@ Technology and games inspire me to keep building, improving, and exploring new p
       <a href="https://github.com/AngelEnd-dev/SakuraCard.git">Ver repositório →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3> Controle Patrimonial </h3>
+      <p>A system for asset management focused on organization, tracking, and internal control of a company's resources.</p>
+      <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/status-concluído-brightgreen"/></p>
+      <a href="https://github.com/DiggoSants/Controle-Patrimonial.git">Ver repositório →</a>
+    </td>
+    <td width="50%">
+      <!-- Espaço reservado para próximo projeto -->
+    </td>
+  </tr>
 </table>
 </div>
-
 <br/>
 
 ## Get in Touch
