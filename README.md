@@ -73,6 +73,20 @@ Technology and games inspire me to keep building, improving, and exploring new p
       <a href="https://github.com/Alewesley-Sousa/SECTEC.git">Ver repositório →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%"  valign="top">
+      <h3> Noru </h3>
+      <p>Gamified career platform for young job-seekers, with an AI guide character and a journey through skills, courses, and companies.</p>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/status-em%20desenvolvimento-orange"/></p>
+      <a href="https://github.com/Morkis-s/AVA.git">Ver repositório →</a>
+    </td>
+   <td width="50%"  valign="top">
+      <h3> Vitrine SECTEC </h3>
+      <p>Showcase site for SECTEC projects.</p>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/status-em%20desenvolvimento-orange"/></p>
+      <a href="https://github.com/AngelEnd-dev/Projetos_SECTEC.git">Ver repositório →</a>
+    </td>
+  </tr>
 </table>
 </div>
 <br/>
