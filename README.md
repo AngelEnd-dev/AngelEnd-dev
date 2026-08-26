@@ -44,7 +44,7 @@ Technology and games inspire me to keep building, improving, and exploring new p
 ## Featured Projects
 
 <div align="center">
-<table>
+<table border="1" cellspacing="0" cellpadding="15">
   <tr>
     <td width="50%"  valign="top">
       <h3> Fitpulse </h3>
